@@ -1,5 +1,5 @@
 ---
-id: 👋 Hur fungerar Our Studio
+id: HurFungerarOurStudio
 slug: /
 ---
 

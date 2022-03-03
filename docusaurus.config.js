@@ -52,7 +52,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '👋 Hur fungerar Our Studio',
+            docId: 'HurFungerarOurStudio',
             position: 'left',
             label: 'Manuals',
           },          
@@ -66,7 +66,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: 'docs/👋 Hur fungerar Our Studio.md',
+                to: 'docs/HurfungerarOurStudio.md',
               },
             ],
           },
