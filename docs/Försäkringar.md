@@ -1,3 +1,7 @@
+---
+id: Försäkringar
+---
+
 # 📄 Försäkringar
 
 ## Sjukvårdsförsäkring - IF

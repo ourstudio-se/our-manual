@@ -1,3 +1,7 @@
+---
+id: Konferensrum
+---
+
 # 🤝 Konferensrum
 
 💪 Success (5)

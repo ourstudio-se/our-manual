@@ -107,4 +107,4 @@ Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma 
 
 ## Delade kalendrar
 
-[Kalendrar](/doc/lankar-98hI9wVB5j)
+<!-- [Kalendrar](/doc/lankar-98hI9wVB5j) -->
