@@ -1,3 +1,8 @@
+---
+id: 👋 Hur fungerar Our Studio
+slug: /
+---
+
 # 👋 Hur fungerar Our Studio
 
 Vi vill inte hålla på med massa regler hit och dit, här är istället lite saker som är bra att förhålla sig till. Detta för att undvika onödiga konflikter om saker som egentligen inte spelar någon roll för vår gemensamma prestation eller välbefinnande. Vill du komma med förbättringar eller förslag, säg bara till, det är ett levande dokument.
