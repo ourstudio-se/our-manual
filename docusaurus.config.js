@@ -44,10 +44,7 @@ const config = {
           src: 'img/favicon.ico',
         },        
       },
-      algolia: {
-        
-      }
-      
+
     }),
 };
 
