@@ -1,5 +1,6 @@
 ---
 id: Försäkringar
+sidebar_position: 5
 ---
 
 # 📄 Försäkringar

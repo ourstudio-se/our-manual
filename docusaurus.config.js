@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'our Manual',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'our Studio is cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/ourstudio-logo.svg',
+  favicon: 'img/favicon.ico',
   organizationName: 'ourStudio', // Usually your GitHub org/user name.
   projectName: 'our-manual', // Usually your repo name.
 
@@ -41,19 +41,24 @@ const config = {
         title: 'ourManual',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/ourstudio-logo_black.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'HurFungerarOurStudio',
-            position: 'left',
-            label: 'Manuals',
-          },          
-        ],
+          src: 'img/favicon.ico',
+        },        
       },
+      algolia: {
+        
+      }
       
     }),
 };
 
-module.exports = config;
+module.exports = config, {
+    noIndex: true,
+    plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        language: "sv",
+      },
+    ],
+  ],
+};

@@ -1,5 +1,6 @@
 ---
 id: Konferensrum
+sidebar_position: 6
 ---
 
 # 🤝 Konferensrum
