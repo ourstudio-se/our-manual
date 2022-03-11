@@ -15,6 +15,8 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ourStudio', // Usually your GitHub org/user name.
   projectName: 'our-manual', // Usually your repo name.
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  noIndex: true,
 
   presets: [
     [
@@ -45,16 +47,7 @@ const config = {
           src: 'img/favicon.ico',
         },             
       },
-
     }),
 };
 
-module.exports = config, {
-    noIndex: true,
-    plugins: [
-    [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
-      
-    ],
-  ],
-};
+module.exports = config;
