@@ -36,13 +36,14 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    
     ({
       navbar: {
         title: 'ourManual',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favicon.ico',
-        },        
+        },             
       },
 
     }),
@@ -53,9 +54,7 @@ module.exports = config, {
     plugins: [
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
-      {
-        language: "sv",
-      },
+      
     ],
   ],
 };
