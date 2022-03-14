@@ -34,7 +34,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/ourstudio-se/our-manual.git',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
