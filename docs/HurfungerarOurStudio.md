@@ -101,4 +101,4 @@ Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma 
 
 ## Delade kalendrar
 
-<!-- [Kalendrar](/doc/lankar-98hI9wVB5j) -->
+[Kalendrar](https://manual.ourstudio.se/L%C3%A4nkar#delade-kalendrar)
