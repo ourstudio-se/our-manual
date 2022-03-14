@@ -62,21 +62,17 @@ Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. N
 
 När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma. Beräkningen sker utifrån: __<https://www.forsakringskassan.se/privatpers/kassakollen>__
 
-
-Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättning från försäkringskassan på 30 180kr i månaden. Our Studio betalar då ut mellanskillnaden mellan 40 000kr och 30 180kr i tre månader, dvs 9 820kr x 3.
+Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättning från försäkringskassan på 30 380kr i månaden. Our Studio betalar då ut mellanskillnaden mellan 40 000kr och 30 380kr i tre månader, dvs 9 620kr x 3.
 
 ## Friskvård
 
-Vi älskar aktivt levende, har du något som du tror går att dra som friskvård, bolla då med Erik, han brukar kunna fixa till det. Skatteverket har nu satt ett tak för friskvård på 5000 kr/anställd och år. Så det är vad vi får förhålla oss till.
+Vi älskar aktivt levende, har du något som du tror går att dra som friskvård, bolla då med Martin. Skatteverket har nu satt ett tak för friskvård på 5000 kr/anställd och år. De har själva tagit ifrån sig ansvaret vad som är en ok utgift, det är upp till arbetsgivaren med lite restriktioner. Så det är vad vi får förhålla oss till.
 
-
-För att uppmuntra till träning erbjuder vi även startavgifter till lopp. Regeln säger dock att man inte kan få något om man inte fullföljer loppet. Här har skatteverket även tyckt till vilket resulterar i att startavgiften endast blir skattefri om flera från bolaget är anmälda till loppet, dvs ett ”lag”. Vi tolkar det som att om fler än en person anmäler sig så har vi anmält ett lag.
+För att uppmuntra till träning erbjuder vi även startavgifter till lopp. Regeln säger dock att man inte kan få något om man inte fullföljer loppet. Här har skatteverket även tyckt till vilket resulterar i att startavgiften endast blir skattefri om flera från bolaget är anmälda till loppet, dvs ett ”lag”. Vi tolkar det som att om fler än en person anmäler sig så har vi anmält ett lag. Observera att detta då sker utanför den individuella gränsen på 5000kr. 
 
 Är man ensam på loppet så blir startavgiften skattepliktig vilket regleras på lönen.
 
-
 Förutom friskvårdsbidrag på 5000 kr/anställd och år, i form av utlägg av den anställde, erbjuder vi även naprapatbehandlingar som faktureras direkt till bolaget. Här har vi gjort tolkningen att dessa behandlingar inte faller inom ramen för friskvårdsbidraget på 5000kr utan ses som naturaförmån.
-
 
 Till sist erbjuds även rehabilitering av tex ryggproblem, även dessa ligger utanför kvoten på 5000kr.
 
@@ -84,23 +80,20 @@ Till sist erbjuds även rehabilitering av tex ryggproblem, även dessa ligger ut
 
 Har man utlägg i tjänsten så ansvarar den som fakturerar kunden du jobbar med att dina utlägga är “rimliga”. Övriga utlägg som inte är för kund bör bollas med Erik om de inte är små. Utlägg skall vara inskickat senast den 15e i månaden för att komma med på nästkommande lönekörning.
 
-Gällande utläggskvitton
-
+###Gällande utläggskvitton:
 
 1. Använd __[utlägg mallen](https://docs.google.com/a/ourstudio.se/spreadsheets/d/17ibxRJ5I0fdFNTVsV3PkBvY_EYjIqPltbxkGO1zwAlk/edit?usp=drive_web)__ som finns på google drive. Spara en egen kopia så ni inte redigerar i den allmänna mallen.
 2. När den är färdig så skapar ni en PDF, helst en och samma fil med försättssidan samt alla kvitton.
 3. Maila den filen till __[Martin](mailto:martin.wester@ourstudio.se)__ och med __[Erik](mailto:erik@ourstudio.se)__ i CC så har han chans att tycka till om kvittona.
 4. Originalkvitton på papper ska sparas, lägg det i lådan som ligger i skåpet under scannern.
 
-
 OBS. Har ni bara ett papperskvitto för utlägg så kan man också göra en förenklad variant där man skriver “Utlägg namn” på framsidan samt får den attesterade av Erik. Sedan mailar man den genom scannern direkt in till “kvitto”. Är det representation måste namnen på deltagare skrivas på baksidan.
-
 
 Ett annat alternativ till utläggsmallen är att använda sig av en gratisapp som heter Expensify. Finns till ios och android. Samma regler som ovan gäller, men appen kan förhoppningsvis förenkla processen.
 
 ## Giltig frånvaro
 
-Händer det något jobbigt i ditt eller din familjs liv så ska du givetvis prioritera det framför jobbet. T.ex. behöver du inte ta semester för att gå på närståendes begravning (närstående = blodsband i ett led från dig eller din sambo). Men kommunicera när det händer saker så kommer alla försöka hjälpa till.
+Händer det något jobbigt i ditt eller din familjs liv så ska du givetvis prioritera det framför jobbet. T.ex. behöver du inte ta semester för att gå på närståendes begravning (Som nära anhörig räknas make/maka, sambo, barn, barnbarn, syskon, föräldrar, svärföräldrar, mor- och farföräldrar samt svärmor/farföräldrar.). Men kommunicera när det händer saker så kommer alla försöka hjälpa till.
 
 ## Övrigt
 
