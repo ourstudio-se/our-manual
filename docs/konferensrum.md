@@ -1,9 +1,8 @@
 ---
-id: Konferensrum
+id: konferensrum
+title: 🤝 Konferensrum
 sidebar_position: 6
 ---
-
-# 🤝 Konferensrum
 
 💪 Success (5)
 

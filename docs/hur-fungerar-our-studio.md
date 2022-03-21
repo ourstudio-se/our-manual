@@ -1,10 +1,9 @@
 ---
-id: HurFungerarOurStudio
+id: hur-fungerar-our-studio
+title: 👋 Hur fungerar Our Studio
 sidebar_position: 1
 slug: /
 ---
-
-# 👋 Hur fungerar Our Studio
 
 Vi vill inte hålla på med massa regler hit och dit, här är istället lite saker som är bra att förhålla sig till. Detta för att undvika onödiga konflikter om saker som egentligen inte spelar någon roll för vår gemensamma prestation eller välbefinnande. Vill du komma med förbättringar eller förslag, säg bara till, det är ett levande dokument.
 
@@ -27,7 +26,6 @@ Självklart är vi lediga alla röda dagar som infaller på vardagar och även j
 
 Våra kunders förtroende till vår kompetens och kapacitet är nödvändig för att vår grupp ska fortsätta utvecklas tillsammans. Det finns några stöttepelare att tänka på här:
 
-
 * Vi fifflar inte med tiden, har du jobbat 6 timmar, rapportera då 6 timmar och inte 8. Det är alltid bättre att du jobbar 35 timmar en vecka än att en kund betalar 5 timmar som de ej borde gjort.
 * Utmana - Du har fått jobb här för att gruppen vill ha din åsikt, glöm inte det. Men var samtidigt noggrann med att lyssna på dina kollegors åsikter, de jobbar här för att de är bäst.
 * Vi är oberoende, det lever vi efter varje dag i att aldrig göra påslag på t.ex. underkonsulter, licenser etc. Hjälp oss bevara det genom att alltid rekommendera det du tror är bäst för projekt/kund/kollega, inte för att du eller någon annan ska tjäna på det.
@@ -43,7 +41,6 @@ Om du är borta från kontoret, sitter hos kund, är sjuk, vabbar mm så meddela
 ## Tjänsteresor
 
 Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi [traktamente](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/traktamente.4.dfe345a107ebcc9baf80006547.html). Vi väljer tåg om det inte är orimligt i jämförelse med flyg. Och vi åker så billigt som vi kan, kostar 1:a klass typ samma som 2:a klass så kör. Annars reser vi 2:a klass.
-
 
 Vad gäller boende så försöker vi hålla typ Scandic-klass.
 
@@ -80,7 +77,7 @@ Till sist erbjuds även rehabilitering av tex ryggproblem, även dessa ligger ut
 
 Har man utlägg i tjänsten så ansvarar den som fakturerar kunden du jobbar med att dina utlägga är “rimliga”. Övriga utlägg som inte är för kund bör bollas med Erik om de inte är små. Utlägg skall vara inskickat senast den 15e i månaden för att komma med på nästkommande lönekörning.
 
-###Gällande utläggskvitton:
+### Gällande utläggskvitton:
 
 1. Använd __[utlägg mallen](https://docs.google.com/a/ourstudio.se/spreadsheets/d/17ibxRJ5I0fdFNTVsV3PkBvY_EYjIqPltbxkGO1zwAlk/edit?usp=drive_web)__ som finns på google drive. Spara en egen kopia så ni inte redigerar i den allmänna mallen.
 2. När den är färdig så skapar ni en PDF, helst en och samma fil med försättssidan samt alla kvitton.
@@ -101,4 +98,4 @@ Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma 
 
 ## Delade kalendrar
 
-[Kalendrar](https://manual.ourstudio.se/L%C3%A4nkar#delade-kalendrar)
+[Kalendrar](/lankar.md#delade-kalendrar)

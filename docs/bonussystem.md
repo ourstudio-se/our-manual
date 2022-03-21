@@ -1,9 +1,8 @@
 ---
-id: BonusSystem
+id: bonussystem
+title: 💰 Bonussystem
 sidebar_position: 2
 ---
-
-# 💰 Bonussystem
 
 Vi tror på marknadsmässiga löner och en socialistisk bonusmodell. Vi har testat olika processer de senaste åren, och just nu testar vi en modell där detta gäller:
 

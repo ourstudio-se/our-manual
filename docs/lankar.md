@@ -1,9 +1,8 @@
 ---
-id: Länkar
+id: lankar
+title: 🔗 Länkar
 sidebar_position: 6
 ---
-
-# 🔗 Länkar
 
 ## Delade kalendrar
 

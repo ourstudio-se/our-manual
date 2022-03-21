@@ -1,9 +1,8 @@
 ---
-id: Försäkringar
+id: forsakringar
+title: 📄 Försäkringar
 sidebar_position: 5
 ---
-
-# 📄 Försäkringar
 
 ## Sjukvårdsförsäkring - IF
 
@@ -15,7 +14,7 @@ TGL är en kapitalförsäkring som innebär att ett försäkringsbelopp utbetala
 
 ## Trygghetsförsäkring vid arbetsskada (TFA) - Fora
 
-Försäk    ringen innefattar:
+Försäkringen innefattar:
 
 * Arbetsolycksfall, det vill säga ett olycksfall som inträffar under arbetstid
 * Färdolycksfall, som inträffar till eller ifrån arbetet
