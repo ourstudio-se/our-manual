@@ -65,9 +65,9 @@ Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättn
 
 Vi älskar aktivt levende, har du något som du tror går att dra som friskvård, bolla då med Martin. Skatteverket har nu satt ett tak för friskvård på 5000 kr/anställd och år. De har själva tagit ifrån sig ansvaret vad som är en ok utgift, det är upp till arbetsgivaren med lite restriktioner. Så det är vad vi får förhålla oss till.
 
-För att uppmuntra till träning erbjuder vi även startavgifter till lopp. Regeln säger dock att man inte kan få något om man inte fullföljer loppet. Här har skatteverket även tyckt till vilket resulterar i att startavgiften endast blir skattefri om flera från bolaget är anmälda till loppet, dvs ett ”lag”. Vi tolkar det som att om fler än en person anmäler sig så har vi anmält ett lag. Observera att detta då sker utanför den individuella gränsen på 5000kr. 
+För att uppmuntra till träning erbjuder vi även startavgifter till lopp. Regeln säger dock att man inte kan få något om man inte fullföljer loppet. Här har skatteverket även tyckt till vilket resulterar i att startavgiften endast blir skattefri om flera från bolaget är anmälda till loppet, dvs ett “lag”. Vi tolkar det som att om fler än en person anmäler sig så har vi anmält ett lag. Observera att detta då sker utanför den individuella gränsen på 5000kr.
 
-Är man ensam på loppet så blir startavgiften skattepliktig vilket regleras på lönen.
+Är man dock ensam på loppet får personen använda sitt friskvårdsbidrag till detta och förhålla sig till regeln om 5000kr.
 
 Förutom friskvårdsbidrag på 5000 kr/anställd och år, i form av utlägg av den anställde, erbjuder vi även naprapatbehandlingar som faktureras direkt till bolaget. Här har vi gjort tolkningen att dessa behandlingar inte faller inom ramen för friskvårdsbidraget på 5000kr utan ses som naturaförmån.
 
