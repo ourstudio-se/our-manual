@@ -13,6 +13,10 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  i18n: {
+    defaultLocale: 'sv',
+    locales: ['sv'],
+  },
   organizationName: 'ourstudio-se', // Usually your GitHub org/user name.
   projectName: 'our-manual', // Usually your repo name.
   plugins: [
