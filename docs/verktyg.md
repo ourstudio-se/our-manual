@@ -1,6 +1,6 @@
 ---
 id: verktyg
-title: 🔨 Verktgen
+title: 🔨 Verktygen
 sidebar_position: 4
 ---
 
