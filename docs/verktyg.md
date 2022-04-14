@@ -20,7 +20,7 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
     * Hög kapacitet och effekt med kolborstfri motor. Lätt konstruktion tack vare bord och skärskydd av magnesium. Maskinen har ett skyddssystem som förlänger batteriets livslängd genom att stänga av maskinen när batterinivån blir för låg. Det ergonomiska och gummibeklädda handtaget medför en säker och komfortabel arbetsställning.
 
 * Kombihammare (?)
-    * Sladdlösa kombinationshammare med dammutvinning systemet. Ergonomiskt handtag med ett säkert och bekvämt grepp. Låg strömförbrukning tack vare kolborstfri motor. Maskinen har också tre lägen, borra, hamra och en kombination av båda.
+    * Sladdlös kombinationshammare med dammutsugning. Ergonomiskt handtag med ett säkert och bekvämt grepp. Låg strömförbrukning tack vare kolborstfri motor. Maskinen har också tre lägen, borra, hamra och en kombination av båda.
 
 * Tigersåg
     * Kolborstfri tigersåg med hastighetsjustering och en slaglängd på 32 mm. Sladdlös 18V tigersåg med nyutvecklat växelhus som ökar hållbarheten, minskar vibrationerna samt gör sågen snabbare och mer effektiv. Byt också blad snabbt och smidigt utan verktyg.
