@@ -35,5 +35,5 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 -1 st
 
 <p align="center">
-  <img src="https://www.bauhaus.se/media/catalog/product/cache/06447b731d1cbff22138e7150384a1c9/1/1/1161092A.jpg" alt="verktygen"/>
+  <img src="/img/verktyg.jpeg" alt="verktygen"/>
 </p>
