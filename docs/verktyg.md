@@ -1,7 +1,7 @@
 ---
 id: verktyg
 title: 🔨 Verktgen
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 
@@ -28,5 +28,5 @@ Det är såklart en riktig utmaning att försöka hålla paktet intakt utan att 
     * Kompakt slagskruvdragare, endast 126 mm lång. Högt vridmoment 170 Nm och ett varvtal på 3200 rpm. Det smala handtaget gör maskinen smidig att använda och med LED-belysning får du god sikt över arbetsstycket.
 
 <p align="center">
-  <img src="https://www.bauhaus.se/media/catalog/product/cache/06447b731d1cbff22138e7150384a1c9/1/1/1161092A.jpg" alt="Sublime's custom image"/>
+  <img src="https://www.bauhaus.se/media/catalog/product/cache/06447b731d1cbff22138e7150384a1c9/1/1/1161092A.jpg" alt="verktygen"/>
 </p>
