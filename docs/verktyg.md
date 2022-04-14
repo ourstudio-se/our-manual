@@ -6,7 +6,8 @@ sidebar_position: 4
 
 
 Vi har ett gäng riktigt bra batteridrivna verktyg som man kan låna hem vid behov till sitt snickarprojekt hemma. 
-Det är såklart en riktig utmaning att försöka hålla paktet intakt utan att man tappar bort något, eller att det försvinner saker, men förhoppningsvis kan vi hjälpas åt att fylla i listan när man tänkt låna / lämna tillbaka verktygen och om det är något som har pajat / försvunnit / etc när man lånat det, så vi vet om vi måste köpa in ny grejer / laga det.
+Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att man tappar bort något, eller att det försvinner saker, men förhoppningsvis kan vi hjälpas åt att fylla i listan när man tänkt låna / lämna tillbaka verktygen och om det är något som har pajat / försvunnit / etc. när man lånat det, så vi vet om vi måste köpa in ny grejer / laga det.
+
 
 ## [Länk till bokningssidan här](https://docs.google.com/spreadsheets/d/15QijQedFXyrXTvLRRMcbxyB98ro3FXB5uAV5pFIuuuI/edit)
 
