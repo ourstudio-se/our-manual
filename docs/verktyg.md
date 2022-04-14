@@ -11,6 +11,12 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 
 ## [Länk till bokningssidan här](https://docs.google.com/spreadsheets/d/15QijQedFXyrXTvLRRMcbxyB98ro3FXB5uAV5pFIuuuI/edit)
 
+
+<p align="center">
+  <img src="/img/verktyg.jpeg" alt="verktygen"/>
+</p>
+
+
 ## Verktygen
 
 * Borrskruvdragare
@@ -33,7 +39,3 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 
 * Laddare
 -1 st
-
-<p align="center">
-  <img src="/img/verktyg.jpeg" alt="verktygen"/>
-</p>
