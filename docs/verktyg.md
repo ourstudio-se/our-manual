@@ -27,6 +27,12 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 
 * Slagskruvdragare
     * Kompakt slagskruvdragare, endast 126 mm lång. Högt vridmoment 170 Nm och ett varvtal på 3200 rpm. Det smala handtaget gör maskinen smidig att använda och med LED-belysning får du god sikt över arbetsstycket.
+* Batteripack
+
+- 3 st 18V, i samband med bokning - ange hur många batteripack som behövs
+
+* Laddare
+-1 st
 
 <p align="center">
   <img src="https://www.bauhaus.se/media/catalog/product/cache/06447b731d1cbff22138e7150384a1c9/1/1/1161092A.jpg" alt="verktygen"/>
