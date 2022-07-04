@@ -9,7 +9,7 @@ Vi vill inte hålla på med massa regler hit och dit, här är istället lite sa
 
 ## Semester
 
-Vi har 6 veckors semester. Önskar du semester så meddela när du vill vara lediga. Ha gärna lite framförhållning så kommer vi lösa det. Vi försöker hålla kontoret stängt 3 veckor varje sommar och vi rekommenderar samtliga att vara lediga under dessa veckor, vi försöker hålla detta sista 2 veckorna i juli och första i augusti varje år. Nya semesterdagar kommer 1 januari varje år. Man får spara max 5 dagar per år och får max ha 25 sparade dagar. All semester ska ska rapporteras i clockify. Planerad semester ska i förväg rapporteras i clockify.
+Vi har 6 veckors semester. Önskar du semester så meddela när du vill vara lediga. Ha gärna lite framförhållning så kommer vi lösa det. Vi försöker hålla kontoret stängt 3 veckor varje sommar och vi rekommenderar samtliga att vara lediga under dessa veckor, vi försöker hålla detta sista 2 veckorna i juli och första i augusti varje år. Nya semesterdagar kommer 1 januari varje år. Man får spara max 5 dagar per år och får max ha 25 sparade dagar. All semester ska rapporteras i clockify. Planerad semester ska i förväg rapporteras i clockify.
 
 ## Röda dagar
 
