@@ -1,7 +1,7 @@
 ---
 id: forsakringar
 title: 📄 Försäkringar
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 ## Sjukvårdsförsäkring - IF
