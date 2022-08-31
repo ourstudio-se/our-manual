@@ -12,6 +12,11 @@ Vi har med start år 2022 gemensamt beslutat att 1% av bolagets omsättning varj
 
 Mer konkret fungerar det så att vi som bolag avsätter medel i en egen fond, som vi sedan använder för att hjälpa organisationer och människor i behov. Alla anställda får vara med och påverka vad vi skall använda medlen till och vilka organisationer eller personer vi vill stötta.
 
+
+### Volunteer Time Off
+Det finns möjlighet att på arbetstid, exempelvis 2 arbetsdagar om året, göra en frivillig insats. Det skulle kunna vara att man följer med en organisation som städar stränder, hjälper nyanlända eller exempelvis stödjer aktiviteter anordnade av Räddningsmissionen. Har du egna tankar och idéer du vill bolla, prata gärna med Joar för att stämma av vad som är möjligt.
+
+
 Nedan är exempel på organisationer och verksamheter vi stöttat.
 
 * Göteborgs Stadsmission
