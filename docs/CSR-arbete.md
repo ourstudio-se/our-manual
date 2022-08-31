@@ -1,6 +1,6 @@
 ---
 id: csr-arbete
-title: CSR - Vårt ansvar som företag
+title: 🌏 CSR - Vårt ansvar som företag
 sidebar_position: 3
 ---
 
