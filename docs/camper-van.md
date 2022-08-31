@@ -1,7 +1,7 @@
 ---
 id: camper-van
 title: 🚙 Camper Van
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 Bilen är av typen Mercedes Marco Polo, och står parkerad i ett garage vid Götaplatsen. Två vuxna och två barn kan sova i bilen. Fyra vuxna så vill det till att ni gillar närhet.

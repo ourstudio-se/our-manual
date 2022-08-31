@@ -1,7 +1,7 @@
 ---
 id: lankar
 title: 🔗 Länkar
-sidebar_position: 6
+sidebar_position: 8
 ---
 
 ## Delade kalendrar
