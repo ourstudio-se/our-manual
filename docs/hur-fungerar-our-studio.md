@@ -38,11 +38,23 @@ Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 ti
 
 Om du är borta från kontoret, sitter hos kund, är sjuk, vabbar mm så meddelar du det i Slack i kanalen #franvaro.
 
-## Tjänsteresor
+## Resor i tjänsten
 
-Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi [traktamente](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/traktamente.4.dfe345a107ebcc9baf80006547.html). Vi väljer tåg om det inte är orimligt i jämförelse med flyg. Och vi åker så billigt som vi kan, kostar 1:a klass typ samma som 2:a klass så kör. Annars reser vi 2:a klass.
+När vi genomför interna aktiviteter gör vi det i vårt relativa närområde så att vi använder tåg/buss/båt för resan. Kring övriga resor är grundregeln enkel, om det finns en rimlig förbindelse som är fossilfri behöver du aldrig fundera på om det är ok.
 
-Vad gäller boende så försöker vi hålla typ Scandic-klass.
+Om det inte finns en rimlig fossilfri förbindelse behöver vi tänka efter mer. Ett av våra viktigaste medel för att inte medverka mer än nödvändigt till klimatomställning är att vi tar kloka beslut kring resande.
+
+**Innan vi bokar dessa resor behöver vi fundera igenom:**
+1. Finns det liknande möjligheter geografiskt bättre placerat för ett hållbart resande än tilltänkta resmålet?
+2. Skulle det gå att medverka digitalt?
+
+Detta handlar inte om att vi inte tycker det är kul att resa, eller att vi som företag inte ska resa. Det handlar om att göra det på ett sådant sätt att vi kan vara stolta gentemot framtida generationer. Och självklart är miljöskäl ett godtagbart argument för en ökad resekostnad. 
+### När du reser
+Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi traktamente.
+1. Vårt primära resesätt är fossilfritt.
+2. När vi bor på hotell gör vi det i “Scandic”-klass.
+3. Vi reser inte i lyxklass om inte kostnaden är liknande som för normala klassen.
+
 
 ## Arbeta hemifrån
 
