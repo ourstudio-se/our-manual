@@ -19,7 +19,20 @@ Mer konkret fungerar det så att vi som bolag avsätter medel i en egen fond, so
 Det finns möjlighet att på arbetstid, exempelvis 2 arbetsdagar om året, göra en frivillig insats. Det skulle kunna vara att man följer med en organisation som städar stränder, hjälper nyanlända eller exempelvis stödjer aktiviteter anordnade av Räddningsmissionen. Har du egna tankar och idéer du vill bolla, prata gärna med Joar för att stämma av vad som är möjligt.
 
 
-Nedan är exempel på organisationer och verksamheter vi stöttat.
+### Solar Park
+[Solar Park i Helsingborg](https://solarpark.se/) är en ekonomisk förening som bygger egna solcellsparker på arrenderad mark (gamla övertäckta deponier). Föreningen har byggt [anläggningar i flera etapper](https://solarpark.se/vara-anlaggningar) då intresset och antalet medlemmar ökat kraftigt de senaste åren.  Varje medlem köper in sig i ett visst antal andelar, som sedan berättigar till en viss ekonomisk utdelning varje år. All el som produceras säljs direkt till den nordiska spotmarknaden (Nordpool) och vinsten som genereras når alltså medlemmarna i form av utdelning per andel.
 
-* Göteborgs Stadsmission
-* Röda korset
+Många väljer att återinvestera den årliga utdelningen i nya andelar, och detta sker automatiskt om man så vill. Genom vårt medlemskap får vi en röst på varje årsmöte, där medlemmarna tillsammans röstar för olika beslut kring bl.a föreningens fortsatta utveckling samt storlek på utdelning.
+
+Vi äger 66 andelar, vilket förväntas ge en elproduktion om ungefär 20.000 kWh per år. Givet att en anställd konsumerar 5.000 kWh el per år (både privat och på jobbet), skulle man kunna säga att våra andelar motsvarar elförbrukningen för 4 anställda på årsbasis.
+
+
+## Donation och investeringar
+Nedan är en sammanställning av donationer och investeringar vi gjort.
+
+
+### 2022
+* Röda korset, 100.000 kr
+* Göteborgs Stadsmission, 50.000 kr
+* Läkare utan gränser, 50.000 kr
+* Solar Park i Helsingborg - 66 andelar för 198.000 kr
