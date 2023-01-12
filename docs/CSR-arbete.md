@@ -27,7 +27,7 @@ Många väljer att återinvestera den årliga utdelningen i nya andelar, och det
 Vi äger 66 andelar, vilket förväntas ge en elproduktion om ungefär 20.000 kWh per år. Givet att en anställd konsumerar 5.000 kWh el per år (både privat och på jobbet), skulle man kunna säga att våra andelar motsvarar elförbrukningen för 4 anställda på årsbasis.
 
 
-## Donation och investeringar
+## Donationer och investeringar
 Nedan är en sammanställning av donationer och investeringar vi gjort.
 
 
