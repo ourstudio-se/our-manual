@@ -12,5 +12,3 @@ Vi tror på marknadsmässiga löner och en socialistisk bonusmodell. Vi har test
 * Din del av 20% av bolagets vinst varje månad, bonusen utbetalas efterföljande månad. Om vi går i förlust en månad (juli, augusti normalt), så utbetalas bonus nästa gång när vi totalt har vinst från senaste bonusutbetalning.
 
 Vi justerar bonus efter arbete, så jobbar man 50% får man just 50% av bonusen oavsett vilken modell man väljer.
-
-[Bonusuträkning 2021 (google sheet)](https://docs.google.com/spreadsheets/d/1A1EH4vJarHBAw2ahVepM_GUNbaDePU4yjvVNvvLUUWg/edit#gid=2141872680) 

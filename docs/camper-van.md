@@ -8,7 +8,7 @@ Bilen är av typen Mercedes Marco Polo, och står parkerad i ett garage vid Göt
 
 Den går att boka för i första hand tjänsteresor, och i andra hand privata resor som en förmån. Varje anställd har 100 mil per år, vid max 10 tillfällen per år, som är fria från förmånsbeskattning.
 
-__[Bokning 2021 Camper Van (Marco Polo)](https://docs.google.com/spreadsheets/u/1/d/1uvEo7B1tF6dgC7VC2a8UOCK1Wg4pYgMUA3y1uL4g2u4/edit)__
+__[Bokning 2023 Camper Van (Marco Polo)](https://docs.google.com/spreadsheets/d/1QBSAXCCrJcKeLSIcXxTUUIvLyJeIAx7yZc49qDuw_r4)__
 
 Det är fritt att boka bilen på lediga tider, generellt bokas heldagar, men det är valfritt att informera om när man tänker hämta och lämna bilen. Om det är högt tryck på bokningarna så är detta att föredra.
 
