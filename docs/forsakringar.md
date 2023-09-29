@@ -6,7 +6,9 @@ sidebar_position: 4
 
 ## Sjukvårdsförsäkring - IF
 
-Med sjukvårdsförsäkringen får vi tillgång till privat vård utan långa köer. I försäkringen ingår rådgivning och bokning av behandling samt en vårdgaranti som garanterar att behandlingen påbörjas inom 14 arbetsdagar. Varje påbörjat ärende innefattar 500 SEK i självrisk och man kommer i kontakt med vården genom att ringa till IF. Man kan använda KRY gratis om man anger numret SP1501096 i appen. Nummer till IF -> 020-620620 (vårt org nr om de behöver det 556780-8455).
+Med sjukvårdsförsäkringen får vi tillgång till privat vård utan långa köer. I försäkringen ingår rådgivning och bokning av behandling samt en vårdgaranti som garanterar att behandlingen påbörjas inom 14 arbetsdagar. Varje påbörjat ärende innefattar 500 SEK i självrisk och man kommer i kontakt med vården genom att ringa till IF. Nummer till IF: [020-620620](tel:020620620) (vårt org nr om de behöver det 556780-8455).
+
+Här är en länk till IF's [vårdplanering](https://www.if.se/privat/vid-skada/personskador/vardhjalpen) och [här](https://www.if.se/foretag/forsakringar/personalforsakring/sjukvardsforsakring) kan du läsa mer om sjukvårdsförsäkringen.  
 
 ## Tjänstegrupplivförsäkring (TGL) - Bliwa
 
