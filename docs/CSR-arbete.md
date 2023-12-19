@@ -24,15 +24,23 @@ Det finns möjlighet att på arbetstid, exempelvis 2 arbetsdagar om året, göra
 
 Många väljer att återinvestera den årliga utdelningen i nya andelar, och detta sker automatiskt om man så vill. Genom vårt medlemskap får vi en röst på varje årsmöte, där medlemmarna tillsammans röstar för olika beslut kring bl.a föreningens fortsatta utveckling samt storlek på utdelning.
 
-Vi äger 66 andelar, vilket förväntas ge en elproduktion om ungefär 20.000 kWh per år. Givet att en anställd konsumerar 5.000 kWh el per år (både privat och på jobbet), skulle man kunna säga att våra andelar motsvarar elförbrukningen för 4 anställda på årsbasis.
+Vi äger 132 andelar, vilket förväntas ge en elproduktion om ungefär 40.000 kWh per år. Givet att en anställd konsumerar 5.000 kWh el per år (både privat och på jobbet), skulle man kunna säga att våra andelar motsvarar elförbrukningen för 8 anställda på årsbasis.
 
 
 ## Donationer och investeringar
-Nedan är en sammanställning av donationer och investeringar vi gjort.
+Nedan är en sammanställning av donationer och investeringar vi gjort sedan 2022.
 
+### 2023
+* Läkare utan gränser, 100.000 kr
+* Göteborgs Stadsmission, 100.000 kr
+* Solar Park i Helsingborg - 66 andelar för 198.000 kr
+
+Totalt 398.000 kr
 
 ### 2022
 * Röda korset, 100.000 kr
 * Göteborgs Stadsmission, 50.000 kr
 * Läkare utan gränser, 50.000 kr
 * Solar Park i Helsingborg - 66 andelar för 198.000 kr
+
+Totalt 398.000 kr
