@@ -118,6 +118,11 @@ Ett annat alternativ till utläggsmallen är att använda sig av en gratisapp so
 Händer det något jobbigt i ditt eller din familjs liv så ska du givetvis prioritera det framför jobbet. T.ex. behöver du inte ta semester för att gå på närståendes begravning (Som nära anhörig räknas make/maka, sambo, barn, barnbarn, syskon, föräldrar, svärföräldrar, mor- och farföräldrar samt svärmor/farföräldrar.). Men kommunicera när det händer saker så kommer alla försöka hjälpa till.
 
 
+## Rekrytering
+
+Vi har en rekryteringbonus på 25 000 kronor om du ger ett konkret tips på en person som leder till anställning.
+
+
 ## Övrigt
 
 Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma sätt och att alla ska ha samma information kring våra förmåner. Viktigt att alla gör sitt bästa för att respektera detta och kommer med feedback om det är något som inte känns bra. Men vill ni klaga på någon kollega så gör det till Erik och snacka inte skit, så blir det bäst/roligast för alla.
