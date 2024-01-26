@@ -7,13 +7,16 @@ slug: /
 
 Vi vill inte hålla på med massa regler hit och dit, här är istället lite saker som är bra att förhålla sig till. Detta för att undvika onödiga konflikter om saker som egentligen inte spelar någon roll för vår gemensamma prestation eller välbefinnande. Vill du komma med förbättringar eller förslag, säg bara till, det är ett levande dokument.
 
+
 ## Semester
 
 Vi har 6 veckors semester. Önskar du semester så meddela när du vill vara lediga. Ha gärna lite framförhållning så kommer vi lösa det. Vi försöker hålla kontoret stängt 3 veckor varje sommar och vi rekommenderar samtliga att vara lediga under dessa veckor, vi försöker hålla detta sista 2 veckorna i juli och första i augusti varje år. Nya semesterdagar kommer 1 januari varje år. Man får spara max 5 dagar per år och får max ha 25 sparade dagar. All semester ska rapporteras i clockify. Planerad semester ska i förväg rapporteras i clockify.
 
+
 ## Röda dagar
 
 Självklart är vi lediga alla röda dagar som infaller på vardagar och även jul-/nyårs-/midsommar-afton när de infaller på en vardag. Övriga dagar jobbar vi fullt, då vi har 6 veckors semester kan du självklart själv ta ledigt om du vill.
+
 
 ## Arbetstid och rapportering i projekt
 
@@ -21,6 +24,7 @@ Självklart är vi lediga alla röda dagar som infaller på vardagar och även j
 * VAB. tjänstledighet och föräldraledighet rapporteras i respektive delade kalender.
 * Vi arbetar ca 40 timmar per vecka. Ibland lite mer ibland lite mindre. Detta sköter ni själva men se till att det blir en bra jämvikt mellan dagar och veckor.
 * Vi har en kund i Clockify som är intern (Our Studio) där rapporterar man tid när man är ombedd att rapportera sin tid. Sunt förnuft är bärande, men försök till vägledning är: “Alla aktiviteter som är frivilliga och som inte är tydligt uttalade som t.ex. konferensdag, kvartalsrapport etc vill vi inte ha rapporterade.”
+
 
 ## Tillit och respekt
 
@@ -30,13 +34,16 @@ Våra kunders förtroende till vår kompetens och kapacitet är nödvändig för
 * Utmana - Du har fått jobb här för att gruppen vill ha din åsikt, glöm inte det. Men var samtidigt noggrann med att lyssna på dina kollegors åsikter, de jobbar här för att de är bäst.
 * Vi är oberoende, det lever vi efter varje dag i att aldrig göra påslag på t.ex. underkonsulter, licenser etc. Hjälp oss bevara det genom att alltid rekommendera det du tror är bäst för projekt/kund/kollega, inte för att du eller någon annan ska tjäna på det.
 
+
 ## Övertid
 
 Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 timmar per vecka. Om du jobbar 41 timmar en vecka kommer du inte automatiskt få betalt för den timmen, utan vi tänker att du jobbar 39 en annan vecka. Om vi har en situation där du kämpar mer än vad som är förväntat av dig kommer vi med största säkerhet hitta på något smart sätt att ersätta dig.
 
+
 ## Frånvaro
 
 Om du är borta från kontoret, sitter hos kund, är sjuk, vabbar mm så meddelar du det i Slack i kanalen #franvaro.
+
 
 ## Resor i tjänsten
 
@@ -49,7 +56,10 @@ Om det inte finns en rimlig fossilfri förbindelse behöver vi tänka efter mer.
 2. Skulle det gå att medverka digitalt?
 
 Detta handlar inte om att vi inte tycker det är kul att resa, eller att vi som företag inte ska resa. Det handlar om att göra det på ett sådant sätt att vi kan vara stolta gentemot framtida generationer. Och självklart är miljöskäl ett godtagbart argument för en ökad resekostnad. 
+
+
 ### När du reser
+
 Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi traktamente.
 1. Vårt primära resesätt är fossilfritt.
 2. När vi bor på hotell gör vi det i “Scandic”-klass.
@@ -61,17 +71,17 @@ Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänst
 Vi har ett bra kontor för att vi tror på lagarbete, men ibland kommer dagar då det är nödvändigt att jobba hemifrån eller från annan ort, meddela detta i god tid för planering och försök vara på plats så mycket som möjligt, det är kollegor som gör vårt lag och leverans.
 
 
-Så länge Covid är ett samhällsproblem gäller givetvis inte ovan. För er som är 100% friska och inte har utsatt er för någon risk nyligen är kontoret öppet och vi som bolag köper lunch levererat till kontoret varje dag för att minska risken ytterligare. Förutom detta så betalar vi parkering i stan för er som vill köra bil, och ni som bor på avstånd där cykel lämpar sig så köper vi en cykel till dig (det blir i form av en förmånscykel, max 20 000 kr).
-
 ## Sjukdom
 
 Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. När du inte skulle haft semester räknar vi inte karensdagar. Så länge vi gemensamt känner att ingen utnyttjar systemet tycker vi nämligen att man borde vara hemma om man är sjuk - det påverkar inte din lön. När du har semester följer vi svensk lag och räknar karensdagar.
+
 
 ## Föräldralön
 
 När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma. Beräkningen sker utifrån: __<https://www.forsakringskassan.se/privatpers/kassakollen>__
 
 Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättning från försäkringskassan på 30 380kr i månaden. Our Studio betalar då ut mellanskillnaden mellan 40 000kr och 30 380kr i tre månader, dvs 9 620kr x 3.
+
 
 ## Friskvård
 
@@ -85,9 +95,11 @@ Förutom friskvårdsbidrag på 5000 kr/anställd och år, i form av utlägg av d
 
 Till sist erbjuds även rehabilitering av tex ryggproblem, även dessa ligger utanför kvoten på 5000kr.
 
+
 ## Utlägg
 
 Har man utlägg i tjänsten så ansvarar den som fakturerar kunden du jobbar med att dina utlägga är “rimliga”. Övriga utlägg som inte är för kund bör bollas med Erik om de inte är små. Utlägg skall vara inskickat senast den 15e i månaden för att komma med på nästkommande lönekörning.
+
 
 ### Gällande utläggskvitton:
 
@@ -100,14 +112,12 @@ OBS. Har ni bara ett papperskvitto för utlägg så kan man också göra en för
 
 Ett annat alternativ till utläggsmallen är att använda sig av en gratisapp som heter Expensify. Finns till ios och android. Samma regler som ovan gäller, men appen kan förhoppningsvis förenkla processen.
 
+
 ## Giltig frånvaro
 
 Händer det något jobbigt i ditt eller din familjs liv så ska du givetvis prioritera det framför jobbet. T.ex. behöver du inte ta semester för att gå på närståendes begravning (Som nära anhörig räknas make/maka, sambo, barn, barnbarn, syskon, föräldrar, svärföräldrar, mor- och farföräldrar samt svärmor/farföräldrar.). Men kommunicera när det händer saker så kommer alla försöka hjälpa till.
 
+
 ## Övrigt
 
 Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma sätt och att alla ska ha samma information kring våra förmåner. Viktigt att alla gör sitt bästa för att respektera detta och kommer med feedback om det är något som inte känns bra. Men vill ni klaga på någon kollega så gör det till Erik och snacka inte skit, så blir det bäst/roligast för alla.
-
-## Delade kalendrar
-
-[Kalendrar](/lankar.md#delade-kalendrar)

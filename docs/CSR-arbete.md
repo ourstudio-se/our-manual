@@ -1,7 +1,7 @@
 ---
 id: csr-arbete
 title: 🌏 CSR - Vårt ansvar som företag
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Alla kan göra något men ingen kan göra allt. Our Studio är ett företag med medvetna anställda och ägare. Vi vill vara ett företag som arbetar målmedvetet för att hjälpa människor, djur och vår planet. Det finns mycket vi som individer kan göra i vår vardag, och det finns också viktiga val vi kan göra tillsammans som företag, för att skapa ett hållbart samhälle. Ett av dessa aktiva val är att fortsätta stötta organisationer och verksamheter, där människor redan arbetar för en bättre framtid.
