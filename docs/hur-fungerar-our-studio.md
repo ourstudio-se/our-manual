@@ -123,6 +123,21 @@ Händer det något jobbigt i ditt eller din familjs liv så ska du givetvis prio
 Vi har en rekryteringbonus på 25 000 kronor om du ger ett konkret tips på en person som leder till anställning.
 
 
+## Utrustning
+
+Our Studio står för den utrustning du behöver för att utföra ditt jobb.
+
+Utrustning som Our Studio står för:
+
+* Dator
+* Mobil
+* Mus, tangentbord, docka och skärm
+* Hörlurar
+* Eventuell annan utrustning som krävs för din roll eller ditt uppdrag
+
+Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Om din dator fungerar dåligt på något sätt, ta upp det med din personalansvariga.
+
+
 ## Övrigt
 
 Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma sätt och att alla ska ha samma information kring våra förmåner. Viktigt att alla gör sitt bästa för att respektera detta och kommer med feedback om det är något som inte känns bra. Men vill ni klaga på någon kollega så gör det till Erik och snacka inte skit, så blir det bäst/roligast för alla.
