@@ -78,7 +78,7 @@ Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. N
 
 ## Föräldralön
 
-När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma. Beräkningen sker utifrån: __<https://www.forsakringskassan.se/privatpers/kassakollen>__
+När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma. Beräkningen sker utifrån: __https://www.forsakringskassan.se/privatpers/kassakollen>__
 
 Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättning från försäkringskassan på 30 380kr i månaden. Our Studio betalar då ut mellanskillnaden mellan 40 000kr och 30 380kr i tre månader, dvs 9 620kr x 3.
 
