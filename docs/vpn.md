@@ -11,7 +11,7 @@ För macOS är det bara att installera [WireGuard från App store](https://itune
 
 För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wireguard.com/install/)
 
-## Detaljerade instruktioner för Linux:
+## Detaljerade instruktioner för Ubuntu/Debian:
 
 1. Installera WireGuard om det inte är installerat
     ```
