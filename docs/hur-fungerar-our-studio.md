@@ -138,6 +138,24 @@ Utrustning som Our Studio står för:
 Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Om din dator fungerar dåligt på något sätt, ta upp det med din personalansvariga.
 
 
+### Glasögon
+
+Our Studio står för synundersökning och inköp av glasögon för de som behöver det. Vi har avtal med Blickpunkten.
+
+För att ta del av avtalet:
+1. Boka tid på __[Blickpunktens hemsida](https://blickpunkten.se/)__.
+2. Skriv ut en __[rekvisition](https://docs.google.com/document/d/1M4X7piuK58pkCspRmLD7scXS3aoVM6O7PydjWQkM4bQ/edit?usp=sharing)__ och få en underskrift på den.
+3. Gå på undersökningen, ta med rekvisitionen.
+4. Sedan tar de på Blickpunkten hand om resten. Fakturan skickas till Our Studio.
+
+Enligt avtalet står Our Studio för undersökningen, glasen, bågar upp till 2000kr.
+
+Utöver det har anställda följande förmåner:
+* 50% på bågen vid köp av kompletta glasögon
+* 25% rabatt på solglasögon
+* Barnglasögon från 0kr t.o.m. 19 år
+* Fri justering och putsning samt bytesrätt 90 dagar om använd vara är i nyskick.
+
 ## Övrigt
 
 Detta är punkter vi sätter upp för att vi alla ska arbeta på ungefär samma sätt och att alla ska ha samma information kring våra förmåner. Viktigt att alla gör sitt bästa för att respektera detta och kommer med feedback om det är något som inte känns bra. Men vill ni klaga på någon kollega så gör det till Erik och snacka inte skit, så blir det bäst/roligast för alla.

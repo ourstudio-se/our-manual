@@ -26,8 +26,7 @@ Med en djup förståelse för livets skiftande omständigheter är vi öppna fö
 * Vi uppmuntrar regelbundna pauser under arbetsdagen för att minska stress och förhindra arbetsrelaterade skador.
 * Psykisk hälsa är lika viktig som fysisk hälsa. Vi uppmuntrar medarbetare att tala öppet om deras känslomässiga behov och strävar efter att ge stöd där det behövs.
 * Inom vårt bolag har vi etablerat försäkringar som erbjuder stöd inom områden såsom psykologisk hjälp och sjukvård. Vi uppmuntrar er att utnyttja dessa försäkringstjänster när behov uppstår; de är designade för att stödja ditt välbefinnande.
-* Med tanke på vår arbetsmiljö där skärmanvändning är central, bekostar företaget synundersökningar samt glasögon för dem som har ett behov. Vänligen kontakta Martin eller Mia för ytterligare information och detaljer.
-
+* Med tanke på vår arbetsmiljö där skärmanvändning är central, bekostar företaget synundersökningar samt glasögon för dem som har ett behov. Det beskrivs i mer detalj __[här](./hur-fungerar-our-studio.md#glasögon)__
 
 ## Kommunikation
 
