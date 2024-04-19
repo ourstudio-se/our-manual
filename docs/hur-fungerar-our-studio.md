@@ -143,7 +143,7 @@ Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att k
 Our Studio står för synundersökning och inköp av glasögon för de som behöver det. Vi har avtal med Blickpunkten.
 
 För att ta del av avtalet:
-1. Boka tid på __[Blickpunktens hemsida](https://blickpunkten.se/)__.
+1. Boka tid på __[Blickpunktens hemsida](https://blickpunkten.se/)__. Välj Bokningstyp -> Terminalglasögon
 2. Skriv ut en __[rekvisition](https://docs.google.com/document/d/1M4X7piuK58pkCspRmLD7scXS3aoVM6O7PydjWQkM4bQ/edit?usp=sharing)__ och få en underskrift på den.
 3. Gå på undersökningen, ta med rekvisitionen.
 4. Sedan tar de på Blickpunkten hand om resten. Fakturan skickas till Our Studio.
