@@ -1,6 +1,6 @@
 ---
 id: introduktionsprogrammet
-title: 🎟️ Introduktionsprogrammet hos Our Studio
+title: 🎟️ Introduktionsprogrammet
 sidebar_position: 6
 ---
 
