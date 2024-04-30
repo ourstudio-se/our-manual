@@ -1,7 +1,7 @@
 ---
 id: vpn
 title: 📡 VPN
-sidebar_position: 9
+sidebar_position: 10
 ---
 Vi har ett WireGuard VPN uppsatt på kontorets nätverk.
 
