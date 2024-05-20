@@ -23,12 +23,18 @@ Det finns möjlighet att på arbetstid, exempelvis 2 arbetsdagar om året, göra
 [Solar Park i Helsingborg](https://solarpark.se/) är en ekonomisk förening som bygger egna solcellsparker på arrenderad mark (gamla övertäckta deponier). Föreningen har byggt [anläggningar i flera etapper](https://solarpark.se/vara-anlaggningar) då intresset och antalet medlemmar ökat kraftigt de senaste åren.  Varje medlem köper in sig i ett visst antal andelar, som sedan berättigar till en viss ekonomisk utdelning varje år. All el som produceras säljs direkt till den nordiska spotmarknaden (Nordpool) och vinsten som genereras når alltså medlemmarna i form av utdelning per andel.
 
 Många väljer att återinvestera den årliga utdelningen i nya andelar, och detta sker automatiskt om man så vill. Genom vårt medlemskap får vi en röst på varje årsmöte, där medlemmarna tillsammans röstar för olika beslut kring bl.a föreningens fortsatta utveckling samt storlek på utdelning.
-
 Vi äger 132 andelar, vilket förväntas ge en elproduktion om ungefär 40.000 kWh per år. Givet att en anställd konsumerar 5.000 kWh el per år (både privat och på jobbet), skulle man kunna säga att våra andelar motsvarar elförbrukningen för 8 anställda på årsbasis.
+
+Vi har också byggt ett medlemshanteringssystem för föreningen, vilket hjälper till att effektivisera administrationen av nya och befintliga användare. Webbapplikationen finns på [solar-park-admin.netlify.app](https://solar-park-admin.netlify.app/) samt tillhörande git-repon [UI](https://github.com/ourstudio-se/solarpark-admin-ui) samt [backend](https://github.com/ourstudio-se/solarpark). [Doumentation](https://docs.google.com/document/d/1t5tz7hy_jWnGR1p-fm_BOCIjpIKBt9IhLUL0u_kR6qs/) för lösningen finns på vår gemensamma Drive.
 
 
 ## Donationer och investeringar
 Nedan är en sammanställning av donationer och investeringar vi gjort sedan 2022.
+
+### 2024
+* Göteborgs Stadsmission, 50.000 kr
+
+Totalt 50.000 kr
 
 ### 2023
 * Läkare utan gränser, 100.000 kr
