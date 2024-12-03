@@ -10,7 +10,13 @@ Vi vill inte hålla på med massa regler hit och dit, här är istället lite sa
 
 ## Semester
 
-Vi har 6 veckors semester. Önskar du semester så meddela när du vill vara lediga. Ha gärna lite framförhållning så kommer vi lösa det. Vi försöker hålla kontoret stängt 3 veckor varje sommar och vi rekommenderar samtliga att vara lediga under dessa veckor, vi försöker hålla detta sista 2 veckorna i juli och första i augusti varje år. Nya semesterdagar kommer 1 januari varje år. Man får spara max 5 dagar per år och får max ha 25 sparade dagar. All semester ska rapporteras i clockify. Planerad semester ska i förväg rapporteras i clockify.
+Vi har 6 veckors semester per år. Meddela alla berörda kollegor när du vill vara ledig och ha gärna lite framförhållning så kommer vi lösa det. Vi försöker hålla kontoret stängt 3 veckor varje sommar och det är ett önskemål att vi försöker att vara lediga under dessa veckor, vi försöker hålla detta sista 2 veckorna i juli och första i augusti varje år.
+
+Bolaget använder ett så kallat sammanfallande intjänandeår och semesterår, det innebär att man får årets semesterdagar i “förskott” och kan ta ut betalda semesterdagar samtidigt som de tjänas in. Dvs nya semesterdagar finns att förfoga från och med 1/1 men tjänas in först 31/12.
+
+Vi har semester av en anledning och vill helst att vi alla nyttjar den till fullo för att må så bra som möjligt. Med det sagt, enligt semesterlagen får man spara överskjutande dagar utöver 20 dagar. Det innebär att man på Our Studio kan spara 10 dagar per år i upp till 5 år.
+
+All semester ska rapporteras i Clockify. Planerad semester ska i förväg rapporteras i Clockify.
 
 
 ## Röda dagar
@@ -20,10 +26,28 @@ Självklart är vi lediga alla röda dagar som infaller på vardagar och även j
 
 ## Arbetstid och rapportering i projekt
 
-* All tid som är kopplat till projekt ska rapporteras på respektive projekt i Clockify. Saknar du projekt att rapportera på säg till.
-* VAB. tjänstledighet och föräldraledighet rapporteras i respektive delade kalender.
-* Vi arbetar ca 40 timmar per vecka. Ibland lite mer ibland lite mindre. Detta sköter ni själva men se till att det blir en bra jämvikt mellan dagar och veckor.
-* Vi har en kund i Clockify som är intern (Our Studio) där rapporterar man tid när man är ombedd att rapportera sin tid. Sunt förnuft är bärande, men försök till vägledning är: “Alla aktiviteter som är frivilliga och som inte är tydligt uttalade som t.ex. konferensdag, kvartalsrapport etc vill vi inte ha rapporterade.”
+Eftersom vår verksamhet ekonomiskt bygger på fakturering av tid så är rapportering av de timmar vi arbetar av stor vikt. Vi förväntas alla rapportera våra timmar innan månadens slut, och det är allas egna ansvar att göra det.
+
+
+### Generellt förhållningsätt
+
+- All tid som är kopplat till projekt ska rapporteras på respektive projekt i Clockify.
+- All tid som är kopplat till Our Studio-arbete ska rapporteras på respektive projekt i Clockify.
+- All frånvaro så som semester, vab, föräldraledig, sjukdom, tjänstledighet ska rapporteras på respektive projekt i Clockify.
+- Saknas kund/projekt i Clockify att rapportera på, säg till. (Projektgrupp, Clockify admins)
+
+### Undantag
+
+- Om och när vi frångår ovan regler frångås ska detta tydlig kommuniceras. (Tidigare exempel är konferenser där vi gemensamt kommit överens hur tid rapporteras.)
+- Vissa aktiviteter kan undantas från tidrapportering enligt överenskommelse. Detta ska vara tydligt kommunicerat. (Ex. Techlunch)
+
+Internt arbete (Ex. Alla möten) anses vara arbetstid och ska inte kompenseras för i kundprojekt. Sunt förnuft förespråkas då situationer där internt arbete och kundbehov krockar. Prata med Projektgrupp/Personalansvarig om hjälp vid behov.
+
+### Övertid
+
+Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 timmar per vecka. Om du jobbar 41 timmar en vecka kommer du inte automatiskt få betalt för den timmen, utan vi tänker att du jobbar 39 en annan vecka. Om vi har en situation där du kämpar mer än vad som är förväntat av dig kommer vi med största säkerhet hitta på något smart sätt att ersätta dig.
+
+Man ska jämför sina rapporterade timmar mot antalet arbetstimmar i aktuell månad för att se till att man ligger ungefär rätt.
 
 
 ## Tillit och respekt
@@ -33,11 +57,6 @@ Våra kunders förtroende till vår kompetens och kapacitet är nödvändig för
 * Vi fifflar inte med tiden, har du jobbat 6 timmar, rapportera då 6 timmar och inte 8. Det är alltid bättre att du jobbar 35 timmar en vecka än att en kund betalar 5 timmar som de ej borde gjort.
 * Utmana - Du har fått jobb här för att gruppen vill ha din åsikt, glöm inte det. Men var samtidigt noggrann med att lyssna på dina kollegors åsikter, de jobbar här för att de är bäst.
 * Vi är oberoende, det lever vi efter varje dag i att aldrig göra påslag på t.ex. underkonsulter, licenser etc. Hjälp oss bevara det genom att alltid rekommendera det du tror är bäst för projekt/kund/kollega, inte för att du eller någon annan ska tjäna på det.
-
-
-## Övertid
-
-Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 timmar per vecka. Om du jobbar 41 timmar en vecka kommer du inte automatiskt få betalt för den timmen, utan vi tänker att du jobbar 39 en annan vecka. Om vi har en situation där du kämpar mer än vad som är förväntat av dig kommer vi med största säkerhet hitta på något smart sätt att ersätta dig.
 
 
 ## Frånvaro
@@ -78,9 +97,11 @@ Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. N
 
 ## Föräldralön
 
-När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma. Beräkningen sker utifrån: __https://www.forsakringskassan.se/privatpers/kassakollen>__
+När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma.
 
-Exempelvis: Den anställda har en lön på 40 000kr. Det ger en maximal ersättning från försäkringskassan på 30 380kr i månaden. Our Studio betalar då ut mellanskillnaden mellan 40 000kr och 30 380kr i tre månader, dvs 9 620kr x 3.
+Föräldralönen innebär att Our Studio står för mellanskillnanden från vad din lön är och vad du maximalt kan få ut från försäkringskassan om du tar ut 7 dagars föräldraledighet under 3 månader.
+
+Beräkningen skedde tidigare med hjälp av försäkringskassans verktyg för detta, men den är tyvärr utdaterad. Prata med Martin Wester vid frågor om föräldralön.
 
 
 ## Friskvård
