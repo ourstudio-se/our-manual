@@ -119,7 +119,7 @@ Till sist erbjuds även rehabilitering av tex ryggproblem, även dessa ligger ut
 
 ## Utlägg
 
-Har man utlägg i tjänsten så ansvarar den som fakturerar kunden du jobbar med att dina utlägga är “rimliga”. Övriga utlägg som inte är för kund bör bollas med Erik om de inte är små. Utlägg skall vara inskickat senast den 15e i månaden för att komma med på nästkommande lönekörning.
+Har man utlägg i tjänsten så ansvarar den som fakturerar kunden du jobbar med att dina utlägga är “rimliga”. Övriga utlägg som inte är för kund bör bollas med Tobias om de inte är små. Utlägg skall vara inskickat senast den 15e i månaden för att komma med på nästkommande lönekörning.
 
 
 ### Gällande utläggskvitton:
@@ -156,7 +156,7 @@ Utrustning som Our Studio står för:
 * Hörlurar
 * Eventuell annan utrustning som krävs för din roll eller ditt uppdrag
 
-Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Om din dator fungerar dåligt på något sätt, ta upp det med din personalansvariga.
+Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Vänd dig till Tobias vid inköp som du inte gör själv.
 
 
 ### Glasögon
