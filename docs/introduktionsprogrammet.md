@@ -22,7 +22,6 @@ Första dagen bjuder vi på lunch.
 
 Boka in möten med följande personer för att få en introduktion till olika delar av Our Studio:
 * Erik Andersson: Our Studio och dess nätverk: Nu och Då
-* Kundansvarig, se [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ)
 * Martin Wester: Ekonomi, försäkringar och dylikt
 * Ralf Krakowski: Förbättring av introduktionen, denna bokas 3 mån i framtiden
 
@@ -31,7 +30,6 @@ Vi använder slack som huvudsakligt kommunkationsverktyg.
 * Utforska slack och gå med i de kanaler du känner dig intresserad av (#tofflorna , #quizz är tips)
 * Skriv en liten presentation om dig själv och posta i #general så att alla kan lära känna dig lite bättre
 
-Ett bra sätt att lära känna dina kollegor är att ta en kaffe, fika eller lunch med dem. Sätt upp ett mål att ha gjort detta med alla medarbetare inom 3 månader. Detta kan vara ett bra tillfälle att lära sig hur vårt system för utlägg fungerar.
-
+Kundansvarig, se [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ) kommer att bjuda in dig för en presentation av vad som sker hos repsktive kund. Ta chansen de första veckorna att spendera tid i de andra teamen.
 
 Allt presentationsmaterial som visas under introduktionen finns att tillgå [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ)
