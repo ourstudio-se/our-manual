@@ -30,6 +30,6 @@ Vi använder slack som huvudsakligt kommunkationsverktyg.
 * Utforska slack och gå med i de kanaler du känner dig intresserad av (#tofflorna , #quizz är tips)
 * Skriv en liten presentation om dig själv och posta i #general så att alla kan lära känna dig lite bättre
 
-Kundansvarig, se [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ) kommer att bjuda in dig för en presentation av vad som sker hos repsktive kund.
+Kundansvarig, se [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ) kommer att bjuda in dig för en presentation av vad som sker hos respektive kund.
 
 Allt presentationsmaterial som visas under introduktionen finns att tillgå [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ)
