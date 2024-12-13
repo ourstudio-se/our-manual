@@ -49,6 +49,12 @@ Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 ti
 
 Man ska jämför sina rapporterade timmar mot antalet arbetstimmar i aktuell månad för att se till att man ligger ungefär rätt.
 
+### Trivsel- & Gemensamma aktiviteter
+
+Our Studio uppmuntrar att man organiserar saker för sina kollegor, och kan stå för många (om inte alla) kostnader kopplat till det. (Historiskt har detta varit saker som gemensamma frukostar eller vin & ostprovning.) 
+
+Att organisera dessa saker, samt aktiviteten i sig, är drivet av viljan att göra saker och ha trevligt tillsammans med sina kollegor och har därmed inte någon självklar plats i tidrapporteringen. Magkänsla och förnuft är ledande och känner du att något kanske bör eller ska rapporteras så lyft detta med relevant person.
+
 
 ## Tillit och respekt
 
