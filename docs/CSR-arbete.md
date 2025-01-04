@@ -33,8 +33,11 @@ Nedan är en sammanställning av donationer och investeringar vi gjort sedan 202
 
 ### 2024
 * Göteborgs Stadsmission, 50.000 kr
+* Röda Korset, 50.000 kr
+* Solar Park i Helsingborg - 50 andelar för 150.000 kr
+* GF Göteborgsgymnasterna för ett sommarläger i Angered  - 100.000 kr
 
-Totalt 50.000 kr
+Totalt 450.000 kr
 
 ### 2023
 * Läkare utan gränser, 100.000 kr
