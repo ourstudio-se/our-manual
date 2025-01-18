@@ -18,7 +18,7 @@ Med en djup förståelse för livets skiftande omständigheter är vi öppna fö
 
 * Alla arbetsstationer, oavsett om de är på kontoret eller hemma, ska vara ergonomiskt utformade och uppfylla arbetsmiljökraven.
 * Teknik och verktyg som används av våra medarbetare ska regelbundet kontrolleras och uppdateras för att säkerställa optimal funktion och säkerhet.
-* Eventuella risker eller problem ska rapporteras omedelbart till din chef eller Mia/Martin.
+* Eventuella risker eller problem ska rapporteras omedelbart till din personalansvariga eller Mia/Martin.
 
 
 ## Hälsa och Välbefinnande
