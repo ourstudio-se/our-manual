@@ -1,4 +1,8 @@
-# Uppförandekod för Our Studio
+---
+id: coc
+title: 📖 Uppförandekod
+sidebar_position: 12
+---
 
 Den här uppförandekoden gäller för alla medarbetare i Our Studio, samt personer som representerar Our Studio.  
 Vi förväntar oss inte att våra kunder, särskilt stora bolag, anpassar sig till denna kod. Däremot måste vi som konsulter följa deras interna regler och riktlinjer när vi arbetar för dem, samtidigt som vi alltid respekterar våra egna värderingar.
