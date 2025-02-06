@@ -85,7 +85,7 @@ Detta handlar inte om att vi inte tycker det är kul att resa, eller att vi som 
 
 ### När du reser
 
-Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi traktamente.
+Vi betalar givetvis kostnaderna för din resa och boende när du reser i tjänsten. Rapportera dessa kostnader i kvittomallen. För utlägg under resan har vi traktamente. Mall för traktamente finns [på driven](https://docs.google.com/spreadsheets/d/1I_embUyb7ryCl1QE-UTVUavOpQT95vW_/edit?usp=drive_link&ouid=117392395023121523442&rtpof=true&sd=true) Följ sedan instruktionerna för utlägg.
 1. Vårt primära resesätt är fossilfritt.
 2. När vi bor på hotell gör vi det i “Scandic”-klass.
 3. Vi reser inte i lyxklass om inte kostnaden är liknande som för normala klassen.
