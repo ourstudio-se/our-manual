@@ -101,6 +101,18 @@ Vi har ett bra kontor för att vi tror på lagarbete, men ibland kommer dagar d�
 Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. När du inte skulle haft semester räknar vi inte karensdagar. Så länge vi gemensamt känner att ingen utnyttjar systemet tycker vi nämligen att man borde vara hemma om man är sjuk - det påverkar inte din lön. När du har semester följer vi svensk lag och räknar karensdagar.
 
 
+### Sjukskrivning
+
+Vi strävar efter att skapa en arbetsmiljö där ingen ska behöva bli sjukskriven. Om du ändå blir sjukskriven ska du inte behöva oroa dig för din privatekonomi. Därför har vi en generös ersättning vid längre sjukfrånvaro.
+* **Dag 1-14**: Our Studio betalar 100% av din lön.
+* **Dag 15-90**: Du får sjukpenning från Försäkringskassan. Utöver detta betalar Our Studio en ersättning som tillsammans med sjukpenningen motsvarar din ordinarie lön upp till ett maxbelopp motsvarande en årslön på 10 prisbasbelopp*.
+* **Efter 90 dagar**: Du får sjukpenning från Försäkringskassan. Utöver det täcker vår sjukförsäkring 10% av inkomsten upp till 10 prisbelopp + 90 procent av inkomsten över 10 prisbasbelopp. Logga in på [Euro Accident](https://euroaccident.com/) för att få en exakt siffra.
+
+<small>_*49 000 kronor per månad (2025)_</small>
+
+[Aktuellt prisbasbelopp från Försäkringskassan](https://www.forsakringskassan.se/privatperson/e-tjanster-blanketter-och-informationsmaterial/aktuella-belopp)
+
+
 ## Föräldralön
 
 När en anställd går på föräldraledighet så betalar Our Studio ut en så kallad föräldralön under en tremånadersperiod alternativt i en klumpsumma.
