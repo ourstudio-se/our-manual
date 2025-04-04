@@ -1,7 +1,7 @@
 ---
 id: coc
 title: 📖 Uppförandekod 
-sidebar_position: 12
+sidebar_position: 13
 ---
 På Our Studio är vår uppförandekod en självklar del av vår kultur och ett stöd i det dagliga arbetet, både internt och externt. Den vägleder oss i att agera ansvarsfullt och i linje med våra värderingar – från att respektera mänskliga rättigheter och främja en inkluderande arbetsmiljö, till att värna om miljön och säkerställa rättvisa affärsmetoder.
 
