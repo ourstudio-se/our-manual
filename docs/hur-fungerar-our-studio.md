@@ -38,16 +38,16 @@ Eftersom vår verksamhet ekonomiskt bygger på fakturering av tid så är rappor
 
 ### Undantag
 
-- Om och när vi frångår ovan regler frångås ska detta tydlig kommuniceras. (Tidigare exempel är konferenser där vi gemensamt kommit överens hur tid rapporteras.)
-- Vissa aktiviteter kan undantas från tidrapportering enligt överenskommelse. Detta ska vara tydligt kommunicerat. (Ex. Techlunch)
+- Om och när vi frångår ovan regler frångås ska detta tydligt kommuniceras. (Tidigare exempel är konferenser där vi gemensamt kommit överens hur tid rapporteras.)
+- Vissa aktiviteter kan undantas från tidrapportering enligt överenskommelse. Detta ska vara tydligt kommunicerat. (t.ex. tech-luncherna som håller hus [här](https://ourstudiovoid.slack.com/archives/C02D66F1NNN)).
 
-Internt arbete (Ex. Alla möten) anses vara arbetstid och ska inte kompenseras för i kundprojekt. Sunt förnuft förespråkas då situationer där internt arbete och kundbehov krockar. Prata med Projektgrupp/Personalansvarig om hjälp vid behov.
+Internt arbete (t.ex. "Allamöten", möten för hela företaget) anses vara arbetstid och ska inte kompenseras för i kundprojekt. Sunt förnuft förespråkas då situationer där internt arbete och kundbehov krockar. Prata med Projektgrupp/Personalansvarig om hjälp vid behov.
 
 ### Övertid
 
 Vi bedriver inte vår verksamhet på tron att du ska behöva jobba mer än 40 timmar per vecka. Om du jobbar 41 timmar en vecka kommer du inte automatiskt få betalt för den timmen, utan vi tänker att du jobbar 39 en annan vecka. Om vi har en situation där du kämpar mer än vad som är förväntat av dig kommer vi med största säkerhet hitta på något smart sätt att ersätta dig.
 
-Man ska jämför sina rapporterade timmar mot antalet arbetstimmar i aktuell månad för att se till att man ligger ungefär rätt.
+Man ska jämför sina rapporterade timmar mot antalet [arbetstimmar i aktuell månad](https://xn--arbetstimmarpermnad-gxb.se/) för att se till att man ligger ungefär rätt.
 
 ### Trivsel- & Gemensamma aktiviteter
 
