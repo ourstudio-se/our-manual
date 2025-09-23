@@ -53,3 +53,6 @@ Totalt 398.000 kr
 * Solar Park i Helsingborg - 66 andelar för 198.000 kr
 
 Totalt 398.000 kr
+
+### Framtida organisationser att hålla i åtanke
+* [Mitt Livs Val](https://www.mittlivsval.com/)
