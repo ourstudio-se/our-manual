@@ -174,7 +174,7 @@ Utrustning som Our Studio står för:
 * Hörlurar
 * Eventuell annan utrustning som krävs för din roll eller ditt uppdrag
 
-Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Vänd dig till Tobias vid inköp som du inte gör själv.
+Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att köpa nytt direkt, inte minst av hållbarhetsskäl. Med det sagt har tekniska prylar en begränsad livslängd. Datorer är vårat huvudsakliga arbetsredskap och den ska aldrig begränsa din möjlighet att göra ditt jobb. Samtliga inköp av telefoner sker via Linné Kontorsmaskiner. Det finns ingen specifik budget per enhet men standardmodeller med grundutrustning utgör basen för inköp. Det är rimligt att man byter mobil tidigast efter 3 år om det inte finns något i jobbet som gör att man måste ha en ny. Om du önskar en dyrare modell kan detta, i vissa fall, lösas genom bruttolöneavdrag motsvarande merkostnaden. Prata med Martin W för mer detaljer. Vänd dig till Tobias vid inköp som du inte gör själv.
 
 
 ### Glasögon
