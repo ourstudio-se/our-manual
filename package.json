@@ -17,9 +17,9 @@
     "@cmfcmf/docusaurus-search-local": "^2.0.1",
     "@docusaurus/core": "^3.9.2",
     "@docusaurus/preset-classic": "^3.9.2",
-    "@types/react": ">=16",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "@types/react": "^19.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "typescript": ">= 2.7"
   },
   "browserslist": {
