@@ -8,7 +8,11 @@ const config = {
   url: 'https://manual.ourstudio.se',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   favicon: 'img/favicon.ico',
   i18n: {
     defaultLocale: 'sv',
