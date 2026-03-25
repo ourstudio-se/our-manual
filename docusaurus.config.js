@@ -59,6 +59,10 @@ const config = {
           src: 'img/favicon.ico',
         },
       },
+      footer: {
+        style: 'light',
+        copyright: `© ${new Date().getFullYear()} Our Studio AB`,
+      },
     }),
 };
 
