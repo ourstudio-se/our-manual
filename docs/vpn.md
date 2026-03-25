@@ -10,6 +10,8 @@ Vi har ett WireGuard VPN uppsatt på kontorets nätverk.
 
 Alla ska ha en personlig konfigurationsfil i Bitwarden under Our Studio -> Personliga secrets -> \[Ditt Namn\] -> vpn wireguard kg57 -> Attachments -> `os0.conf`
 
+## Installation
+
 <Tabs>
 <TabItem value="macos" label="macOS" default>
 
@@ -17,6 +19,10 @@ Installera [WireGuard från App Store](https://itunes.apple.com/us/app/wireguard
 
 </TabItem>
 <TabItem value="linux" label="Ubuntu/Debian">
+
+I nyare versioner av Ubuntu 24+ kan man importera wireguard-filen via nätverksinställningarna.
+
+För äldre versioner eller om man behöver det av andra anledningar är detta ett alternativt sätt:
 
 1. Installera WireGuard om det inte är installerat
     ```
@@ -48,14 +54,6 @@ Installera [WireGuard från App Store](https://itunes.apple.com/us/app/wireguard
     nmcli connection down os0
     ```
 
-</TabItem>
-<TabItem value="other" label="Andra OS">
-
-För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wireguard.com/install/).
-
-</TabItem>
-</Tabs>
-
 ## Vanliga problem
 ```
 If you get an error saying 'wg0 is strictly unmanaged', then you need NM to enable managing wg0 interface.
@@ -63,3 +61,11 @@ If you get an error saying 'wg0 is strictly unmanaged', then you need NM to enab
 Then edit /etc/NetworkManager/conf.d/10-globally-managed-devices.conf and add except:type:wireguard:
 unmanaged-devices=*,except:type:wifi,except:type:gsm,except:type:cdma,except:type:wireguard
 ```
+
+</TabItem>
+<TabItem value="other" label="Andra OS">
+
+För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wireguard.com/install/).
+
+</TabItem>
+</Tabs>
