@@ -1,41 +1,28 @@
-# Website
+# our Manual
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Our Studio's employee handbook, hosted at [manual.ourstudio.se](https://manual.ourstudio.se).
 
-### Installation
+Built with [Docusaurus 3](https://docusaurus.io/) and written in Swedish.
 
-```
-$ yarn
-```
+## Content
 
-### Local Development
+The handbook covers HR policies, tools, benefits, and onboarding for Our Studio employees — including work environment policy, bonus system, insurance, pension, AI tools, VPN setup, and more.
 
-```
-$ yarn start
-```
+## Development
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```sh
+yarn          # install dependencies
+yarn start    # start local dev server
+yarn build    # generate static site in build/
+yarn serve    # serve the build locally
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Deployment
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```sh
+yarn deploy   # build and push to gh-pages branch
 ```
 
-Not using SSH:
+## Search
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The site uses [@cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local) for client-side search in Swedish. The site is not indexed by search engines (`noIndex: true`).
