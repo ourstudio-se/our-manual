@@ -8,7 +8,11 @@ const config = {
   url: 'https://manual.ourstudio.se',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   favicon: 'img/favicon.ico',
   i18n: {
     defaultLocale: 'sv',
@@ -54,6 +58,10 @@ const config = {
           alt: 'Our Studio',
           src: 'img/favicon.ico',
         },
+      },
+      footer: {
+        style: 'light',
+        copyright: `© ${new Date().getFullYear()} Our Studio AB`,
       },
     }),
 };

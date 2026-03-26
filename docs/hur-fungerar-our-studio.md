@@ -104,13 +104,18 @@ Rapportera dina sjukdagar i Clockify med projektkategorin “Sjukfrånvaro”. N
 ### Sjukskrivning
 
 Vi strävar efter att skapa en arbetsmiljö där ingen ska behöva bli sjukskriven. Om du ändå blir sjukskriven ska du inte behöva oroa dig för din privatekonomi. Därför har vi en generös ersättning vid längre sjukfrånvaro.
+
+:::info Ersättning vid sjukskrivning
+
 * **Dag 1-14**: Our Studio betalar 100% av din lön.
 * **Dag 15-90**: Du får sjukpenning från Försäkringskassan. Utöver detta betalar Our Studio en ersättning som tillsammans med sjukpenningen motsvarar din ordinarie lön upp till ett maxbelopp motsvarande en årslön på 10 prisbasbelopp*.
 * **Efter 90 dagar**: Du får sjukpenning från Försäkringskassan. Utöver det täcker vår sjukförsäkring 10% av inkomsten upp till 10 prisbelopp + 90 procent av inkomsten över 10 prisbasbelopp. Logga in på [Euro Accident](https://euroaccident.com/) för att få en exakt siffra.
 
-<small>_*49 000 kronor per månad (2025)_</small>
+<small>_*49 333 kronor per månad (2026)_</small>
 
 [Aktuellt prisbasbelopp från Försäkringskassan](https://www.forsakringskassan.se/privatperson/e-tjanster-blanketter-och-informationsmaterial/aktuella-belopp)
+
+:::
 
 
 ## Föräldralön
@@ -181,11 +186,14 @@ Vi byter hellre batterier och uppgraderar utrustningen på andra sätt än att k
 
 Our Studio står för synundersökning och inköp av glasögon för de som behöver det. Vi har avtal med Blickpunkten.
 
-För att ta del av avtalet:
+:::tip Så gör du
+
 1. Boka tid på __[Blickpunktens hemsida](https://blickpunkten.se/)__. Välj Bokningstyp -> Terminalglasögon
 2. Skriv ut en __[rekvisition](https://docs.google.com/document/d/1M4X7piuK58pkCspRmLD7scXS3aoVM6O7PydjWQkM4bQ/edit?usp=sharing)__ och få en underskrift på den.
 3. Gå på undersökningen, ta med rekvisitionen.
 4. Sedan tar de på Blickpunkten hand om resten. Fakturan skickas till Our Studio.
+
+:::
 
 Enligt avtalet står Our Studio för undersökningen, glasen, bågar upp till 2000kr.
 

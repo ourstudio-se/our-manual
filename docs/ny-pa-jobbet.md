@@ -30,9 +30,14 @@ Boka in möten med följande personer för att få veta om olika delar av Our St
 Sen går det strålande bra att vara nyfiken och informellt fråga vad folk gör och jobbar med, så gör gärna det också. Vi är ett litet företag och vill dela gemenskapen med dig!
 
 Vi använder slack som huvudsakligt kommunikationsverktyg. Bra att göra:
+
+:::tip Slack-tips
+
 * Ladda upp en profilbild på slack
 * Utforska slack och gå med i de kanaler du känner dig intresserad av (#tofflorna , #quizz och #fika är tips)
 * Skriv en kort presentation om dig själv och posta i #general så att alla kan få både bild, namn och lära känna dig lite
+
+:::
 
 För lite mer överblick av vad Our Studio gör utanför just ditt projekt, kommer de ansvariga för varje kund bjuda in dig för en presentation av vad som sker hos dem. Vilka det är står [här](https://drive.google.com/drive/u/0/folders/1wb_OINZ7mmTVmwRLdEfQkqh8RAucxjRZ).
 

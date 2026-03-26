@@ -24,7 +24,7 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 * Cirkelsåg (inklusive skena för långa raka snitt)
     * Hög kapacitet och effekt med kolborstfri motor. Lätt konstruktion tack vare bord och skärskydd av magnesium. Maskinen har ett skyddssystem som förlänger batteriets livslängd genom att stänga av maskinen när batterinivån blir för låg. Det ergonomiska och gummibeklädda handtaget medför en säker och komfortabel arbetsställning.
 
-* Kombihammare (?)
+* Kombihammare
     * Sladdlös kombinationshammare med dammutsugning. Ergonomiskt handtag med ett säkert och bekvämt grepp. Låg strömförbrukning tack vare kolborstfri motor. Maskinen har också tre lägen, borra, hamra och en kombination av båda.
 
 * Tigersåg
@@ -33,8 +33,7 @@ Det är såklart en riktig utmaning att försöka hålla paketet intakt utan att
 * Slagskruvdragare
     * Kompakt slagskruvdragare, endast 126 mm lång. Högt vridmoment 170 Nm och ett varvtal på 3200 rpm. Det smala handtaget gör maskinen smidig att använda och med LED-belysning får du god sikt över arbetsstycket.
 * Batteripack
-
-- 3 st 18V, i samband med bokning - ange hur många batteripack som behövs
+    * 3 st 18V, i samband med bokning - ange hur många batteripack som behövs
 
 * Laddare
--1 st
+    * 1 st

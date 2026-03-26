@@ -3,15 +3,26 @@ id: vpn
 title: 📡 VPN
 sidebar_position: 11
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Vi har ett WireGuard VPN uppsatt på kontorets nätverk.
 
 Alla ska ha en personlig konfigurationsfil i Bitwarden under Our Studio -> Personliga secrets -> \[Ditt Namn\] -> vpn wireguard kg57 -> Attachments -> `os0.conf`
 
-För macOS är det bara att installera [WireGuard från App store](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12) och importera konfig-filen och tuta och köra.
+## Installation
 
-För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wireguard.com/install/)
+<Tabs>
+<TabItem value="macos" label="macOS" default>
 
-## Detaljerade instruktioner för Ubuntu/Debian:
+Installera [WireGuard från App Store](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12), importera konfig-filen och tuta och köra.
+
+</TabItem>
+<TabItem value="linux" label="Ubuntu/Debian">
+
+I nyare versioner av Ubuntu 24+ kan man importera wireguard-filen via nätverksinställningarna.
+
+För äldre versioner eller om man behöver det av andra anledningar är detta ett alternativt sätt:
 
 1. Installera WireGuard om det inte är installerat
     ```
@@ -43,10 +54,18 @@ För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wi
     nmcli connection down os0
     ```
 
-# Vanliga problem
+## Vanliga problem
 ```
 If you get an error saying 'wg0 is strictly unmanaged', then you need NM to enable managing wg0 interface.
 #cp /usr/lib/NetworkManager/conf.d/10-globally-managed-devices.conf /etc/NetworkManager/conf.d/
 Then edit /etc/NetworkManager/conf.d/10-globally-managed-devices.conf and add except:type:wireguard:
 unmanaged-devices=*,except:type:wifi,except:type:gsm,except:type:cdma,except:type:wireguard
 ```
+
+</TabItem>
+<TabItem value="other" label="Andra OS">
+
+För andra operativsystem finns det instruktioner hos [WireGuard](https://www.wireguard.com/install/).
+
+</TabItem>
+</Tabs>
