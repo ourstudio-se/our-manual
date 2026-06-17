@@ -31,6 +31,16 @@ Vi har också byggt ett medlemshanteringssystem för föreningen, vilket hjälpe
 ## Donationer och investeringar
 Nedan är en sammanställning av donationer och investeringar vi gjort sedan 2022.
 
+### 2025
+* Göteborgs Stadsmission, 125.000 kr
+* Röda Korset, 50.000 kr
+* Läkare Utan Gränser, 75.000 kr
+* Power Up Ukraine, 75.000 kr
+* Solar Park, 75.000 kr
+* Arbetstid Pro Bono, 70.000 kr
+
+Totalt 467.000 kr
+
 ### 2024
 * Göteborgs Stadsmission, 50.000 kr
 * Röda Korset, 50.000 kr
