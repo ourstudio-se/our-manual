@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## Sjukvårdsförsäkring - IF
 
-Med sjukvårdsförsäkringen får vi tillgång till privat vård utan långa köer. I försäkringen ingår rådgivning och bokning av behandling samt en vårdgaranti som garanterar att behandlingen påbörjas inom 14 arbetsdagar. Varje påbörjat ärende innefattar 500 SEK i självrisk.
+Med sjukvårdsförsäkringen får vi tillgång till privat vård utan långa köer. I försäkringen ingår rådgivning och bokning av behandling samt en vårdgaranti som garanterar att behandlingen påbörjas inom 14 arbetsdagar. Varje påbörjat ärende innefattar 1 000 SEK i självrisk (tidigare 500 SEK).
 
 :::info Kontakt
 
